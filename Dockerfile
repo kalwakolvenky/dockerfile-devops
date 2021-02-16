@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM nginx
 LABEL OWNER="venki"
 LABEL EMAIL="venky.leader@gmail.com"
 ENV REPO="https://github.com/mavrick202/dockertest1.git"
